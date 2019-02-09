@@ -7,6 +7,7 @@
 </p>
 - Note : In above board representation "0" means an empty space.
 - For example
+- Goal state for puzzle is shown below
 <p align="center">
 <img width="189" alt="screen shot 2019-02-09 at 7 53 08 pm" src="https://user-images.githubusercontent.com/42313064/52521800-dc12f780-2ca4-11e9-975a-81a6fcf654f8.png">
  <br>
