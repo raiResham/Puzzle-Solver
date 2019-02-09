@@ -1,2 +1,2 @@
-# PuzzleSolver4by3
+# PuzzleSolver
 Solves 4 by 3 puzzle.!!!
