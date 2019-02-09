@@ -9,6 +9,7 @@
 - For example
 <p align="center">
 <img width="189" alt="screen shot 2019-02-09 at 7 53 08 pm" src="https://user-images.githubusercontent.com/42313064/52521800-dc12f780-2ca4-11e9-975a-81a6fcf654f8.png">
+ <br>
 <img width="180" alt="screen shot 2019-02-09 at 7 54 09 pm" src="https://user-images.githubusercontent.com/42313064/52521813-0e245980-2ca5-11e9-8561-091c45d922b6.png">
 <img width="184" alt="screen shot 2019-02-09 at 7 54 53 pm" src="https://user-images.githubusercontent.com/42313064/52521854-dbc72c00-2ca5-11e9-986c-5a07298588d6.png">
 <img width="173" alt="screen shot 2019-02-09 at 7 55 09 pm" src="https://user-images.githubusercontent.com/42313064/52521868-04e7bc80-2ca6-11e9-9cb4-1a8d99f43f41.png">
