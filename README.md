@@ -9,6 +9,7 @@
 - For example
 <img width="189" alt="screen shot 2019-02-09 at 7 53 08 pm" src="https://user-images.githubusercontent.com/42313064/52521800-dc12f780-2ca4-11e9-975a-81a6fcf654f8.png">
 <img width="180" alt="screen shot 2019-02-09 at 7 54 09 pm" src="https://user-images.githubusercontent.com/42313064/52521813-0e245980-2ca5-11e9-8561-091c45d922b6.png">
+<img width="184" alt="screen shot 2019-02-09 at 7 54 53 pm" src="https://user-images.githubusercontent.com/42313064/52521854-dbc72c00-2ca5-11e9-986c-5a07298588d6.png">
 
 <img width="174" alt="screen shot 2019-02-09 at 7 55 21 pm" src="https://user-images.githubusercontent.com/42313064/52521820-24321a00-2ca5-11e9-8ffb-1253991417ec.png">
 <img width="180" alt="screen shot 2019-02-09 at 7 55 32 pm" src="https://user-images.githubusercontent.com/42313064/52521821-285e3780-2ca5-11e9-87b0-db15ba884972.png">
