@@ -6,6 +6,6 @@
 <img  width="183" alt="screen shot 2019-02-09 at 7 33 41 pm" src="https://user-images.githubusercontent.com/42313064/52521674-bc7acf80-2ca2-11e9-98be-bb6453d79b36.png">
  </p>
  
-- <h2>For example</h3>
+ <h2>For example</h3>
 
 
