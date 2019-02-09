@@ -22,7 +22,7 @@
  <br>
 <img width="178" alt="screen shot 2019-02-09 at 7 55 41 pm" src="https://user-images.githubusercontent.com/42313064/52521825-3a3fda80-2ca5-11e9-81c3-1b1126ffd3d9.png">
   <br>
-<img width="200" alt="screen shot 2019-02-09 at 7 55 49 pm" src="https://user-images.githubusercontent.com/42313064/52521826-3ca23480-2ca5-11e9-9be5-5b8f61003369.png">
+<img width="183" alt="screen shot 2019-02-09 at 8 07 42 pm" src="https://user-images.githubusercontent.com/42313064/52521891-7293e880-2ca6-11e9-9764-2337922971e1.png">
 
 </p>
 
