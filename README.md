@@ -8,6 +8,14 @@
  
 - For example
 <img width="189" alt="screen shot 2019-02-09 at 7 53 08 pm" src="https://user-images.githubusercontent.com/42313064/52521800-dc12f780-2ca4-11e9-975a-81a6fcf654f8.png">
+<img width="180" alt="screen shot 2019-02-09 at 7 54 09 pm" src="https://user-images.githubusercontent.com/42313064/52521813-0e245980-2ca5-11e9-8561-091c45d922b6.png">
+![image](https://user-images.githubusercontent.com/42313064/52521814-167c9480-2ca5-11e9-82b3-ef2a06e7be1f.png)
+![image](https://user-images.githubusercontent.com/42313064/52521818-2005fc80-2ca5-11e9-83a9-269c83e43f59.png)
+<img width="174" alt="screen shot 2019-02-09 at 7 55 21 pm" src="https://user-images.githubusercontent.com/42313064/52521820-24321a00-2ca5-11e9-8ffb-1253991417ec.png">
+<img width="180" alt="screen shot 2019-02-09 at 7 55 32 pm" src="https://user-images.githubusercontent.com/42313064/52521821-285e3780-2ca5-11e9-87b0-db15ba884972.png">
+<img width="180" alt="screen shot 2019-02-09 at 7 55 32 pm" src="https://user-images.githubusercontent.com/42313064/52521824-36ac5380-2ca5-11e9-872a-8da98a1ad8c1.png">
+<img width="178" alt="screen shot 2019-02-09 at 7 55 41 pm" src="https://user-images.githubusercontent.com/42313064/52521825-3a3fda80-2ca5-11e9-81c3-1b1126ffd3d9.png">
+<img width="200" alt="screen shot 2019-02-09 at 7 55 49 pm" src="https://user-images.githubusercontent.com/42313064/52521826-3ca23480-2ca5-11e9-9be5-5b8f61003369.png">
 
 
 
