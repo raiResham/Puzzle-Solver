@@ -25,10 +25,10 @@
   <br>
 <img width="183" alt="screen shot 2019-02-09 at 8 07 42 pm" src="https://user-images.githubusercontent.com/42313064/52521891-7293e880-2ca6-11e9-9764-2337922971e1.png">
 </p>
-<ul>
+
  <li>
  The program prints step by step solution till it reaches the goal node.
  </li>
- </ul>
+
 
 
